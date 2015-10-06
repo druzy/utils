@@ -1,6 +1,6 @@
 <project default="jar">
 
-<property name="src.dir" value="src"/>
+<property name="src.dir" value="./"/>
 <property name="bin.dir" value="bin"/>
 <property name="jar.dir" value="exe"/>
 <property name="version" value="1"/>
